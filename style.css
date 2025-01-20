@@ -207,15 +207,22 @@ option:before {
     opacity: 0.8;
 }
 /*==================================================================*/
+.qr{
+    height: 250px;
+    padding: 0 50px;
+}
+.qr img{
+    width: 100%;
+    height: 100%;
+}
 .foot{
     width: 100%;
-    height: 70vh;
     margin-bottom: 20px;
     padding: 50px;
 }
 .foot .lineFoot{
     width: 100%;
-    height: 100%;
+    height: 25vh;
 }
 .lineFoot img{
     width: 100%;
@@ -299,9 +306,21 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 70px;
+    padding: 0 5px;
+}
+.qr img{
+    width: 100%;
+    height: 100%;
+}
 .foot{
-    height: 30vh;
+    height: 10vh;
     padding: 5px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -370,9 +389,21 @@ html body .container select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 70px;
+    padding: 0 5px;
+}
+.qr img{
+    width: 100%;
+    height: 100%;
+}
 .foot{
-    height: 30vh;
+    height: 10vh;
     padding: 5px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -451,9 +482,21 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 70px;
+    padding: 0 5px;
+}
+.qr img{
+    width: 100%;
+    height: 100%;
+}
 .foot{
-    height: 30vh;
+    height: 10vh;
     padding: 5px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -531,9 +574,17 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 80px;
+    padding: 0 5px;
+}
 .foot{
-    height: 35vh;
+    height: 10vh;
     padding: 5px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -611,9 +662,17 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 90px;
+    padding: 0 5px;
+}
 .foot{
-    height: 35vh;
+    height: 10vh;
     padding: 5px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -692,9 +751,17 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 100px;
+    padding: 0 10px;
+}
 .foot{
-    height: 40vh;
-    padding: 5px;
+    height: 10vh;
+    padding: 10px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -773,9 +840,17 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 120px;
+    padding: 0 15px;
+}
 .foot{
-    height: 40vh;
-    padding: 5px;
+    height: 10vh;
+    padding: 15px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 10vh;
 }
 }
 /*=============================================================================================================*/
@@ -850,9 +925,18 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 150px;
+    padding: 0 15px;
+}
 .foot{
-    height: 40vh;
-    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 20vh;
 }
 }
 /*=============================================================================================================*/
@@ -931,9 +1015,18 @@ html body .container form select{
     font-size: 12px;
 }
 /*==================================================================*/
+.qr{
+    height: 150px;
+    padding: 0 15px;
+}
 .foot{
-    height: 40vh;
-    padding: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 20vh;
 }
 }
 /*=============================================================================================================*/
@@ -1001,8 +1094,18 @@ html body .container form select{
     right: -70px;
     font-size: 12px;
 }
+.qr{
+    height: 190px;
+    padding: 0 15px;
+}
 .foot{
-    padding: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 20vh;
 }
 }
 /*=============================================================================================================*/
@@ -1046,8 +1149,18 @@ select{
     right: -40px;
     font-size: 14px;
 }
+.qr{
+    height: 190px;
+    padding: 0 15px;
+}
 .foot{
-    padding: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 20vh;
 }
 }
 /*=============================================================================================================*/
@@ -1067,6 +1180,18 @@ select{
 }
 .btn .submit-btn{
     width: 60%;
+}
+.qr{
+    height: 220px;
+    padding: 0 30px;
+}
+.foot{
+    margin-bottom: 15px;
+    padding: 30px;
+}
+.foot .lineFoot{
+    width: 100%;
+    height: 25vh;
 }
 }
 @media screen and (min-width:1401px) and (max-width:1500px){
