@@ -399,11 +399,11 @@ html body .container select{
 }
 .qr img:nth-child(1){
     width: 70%;
-    height: 115px;
+    height: 125px;
 }
 .qr img:nth-child(2){
     width: 25%;
-    height:90px;
+    height:100px;
 }
 .foot{
     height: 10vh;
@@ -498,11 +498,11 @@ html body .container form select{
 }
 .qr img:nth-child(1){
     width: 70%;
-    height: 115px;
+    height: 125px;
 }
 .qr img:nth-child(2){
     width: 25%;
-    height:90px;
+    height:100px;
 }
 .foot{
     height: 10vh;
@@ -596,11 +596,11 @@ html body .container form select{
 }
 .qr img:nth-child(1){
     width: 70%;
-    height: 115px;
+    height: 125px;
 }
 .qr img:nth-child(2){
     width: 25%;
-    height:90px;
+    height:100px;
 }
 .foot{
     height: 10vh;
